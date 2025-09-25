@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: astra_description
+    relative_path: urdf/astra_description.urdf
+  srdf:
+    relative_path: config/astra_description.srdf
+  package_settings:
+    generated_timestamp: 1722164844
